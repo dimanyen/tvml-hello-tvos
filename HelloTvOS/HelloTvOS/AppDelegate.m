@@ -9,8 +9,8 @@
 #import "AppDelegate.h"
 #import <TVMLKit/TVMLKit.h>
 
-static NSString *TVBaseURL = @"http://localhost/hellotvos/";
-static NSString *TVBootURL = @"http://localhost/hellotvos/js/application.js";
+static NSString *TVBaseURL = @"https://raw.githubusercontent.com/dimanyen/tvml-hello-tvos/master/webserver/hellotvos/";
+static NSString *TVBootURL = @"https://raw.githubusercontent.com/dimanyen/tvml-hello-tvos/master/webserver/hellotvos/js/application.js";
 
 @interface AppDelegate ()<TVApplicationControllerDelegate>
 {
