@@ -1,0 +1,13 @@
+{
+  "contents":[
+    "resources/images/channel1.png",
+    "resources/images/channel2.png",
+    "resources/images/channel3.png",
+    "resources/images/channel4.png",
+    "resources/images/channel5.png",
+    "resources/images/channel6.png"
+    
+
+  ],
+  "videoURL":"http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8"
+}
